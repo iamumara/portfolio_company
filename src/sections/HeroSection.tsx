@@ -67,7 +67,7 @@ const HeroSection = () => {
                 Contact Me
               </Button>
               
-              <Button variant="outline" onClick={() => window.open('https://github.com/Abu-Bakar47', '_blank')}>
+              <Button variant="outline" onClick={() => window.open('https://github.com/Naquee?tab=repositories', '_blank')}>
                 View GitHub
               </Button>
             </motion.div>
