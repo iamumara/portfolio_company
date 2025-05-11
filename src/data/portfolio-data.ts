@@ -115,9 +115,9 @@ export const projects: Project[] = [
     title: "PathLab",
     description: "A tool for efficient pathology lab reporting and management.",
     longDescription:
-      "PathLab is a comprehensive web-based solution designed to streamline pathology lab operations. From test bookings and report generation to patient management, PathLab provides a seamless experience for labs and their clients. Its user-friendly interface and automation features help reduce manual workload and improve accuracy in diagnostic reporting.",
+      "PathLab is a comprehensive web-based solution designed to streamline pathology lab operations.pathLab provides a seamless experience for labs and their clients. Its user-friendly interface  help reduce manual workload and improve accuracy in diagnostic reporting.",
     imageUrl:
-      "https://img.freepik.com/free-photo/hands-unrecognizable-female-doctor-looking-human-skull-x-ray-tablet_1098-20369.jpg?t=st=1746954790~exp=1746958390~hmac=9007095904b25ea82778efd7c917c1022c3eda9380e7ece2448dc9f796bd69ae&w=1380",
+      "https://img.freepik.com/free-photo/mid-section-male-doctor-seated-desk-extending-digital-questionnaire-tablet-screen-camera_1098-19365.jpg?t=st=1746959053~exp=1746962653~hmac=f1707a21215d175999f3ff5938c79a7a69944728e68df3827c833f3724800c1e&w=740",
     websiteUrl: "https://crm-labs.vercel.app/",
     technologies: ["React", "TypeScript", "Tailwind CSS", "Next .js"],
   },
